@@ -6,3 +6,5 @@ $product = new Product;
 $product->delete($_GET['id']);
 
 ?>
+
+//THIS CODE FROM GITHUB
